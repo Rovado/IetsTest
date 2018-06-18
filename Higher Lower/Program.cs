@@ -22,7 +22,7 @@ namespace Higher_Lower
             int[] numbers = { 0, 1, 2, 3, 4, 5 };
             int firstNumber = numbers[0];
             int secondNumber = numbers[1];
-            Console.WriteLine(firstNumber, secondNumber);
+            //Console.WriteLine(firstNumber, secondNumber);
         }
     }
 }
